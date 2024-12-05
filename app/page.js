@@ -8,6 +8,7 @@ export default function Home() {
                 <h1>Main Page</h1>
                 <ul>
                     <li><Link href="/page1">Page 1: Simple, unformatted page</Link></li>
+                    <li><Link href="/page2">Page 2: Routing and locale CSS module</Link></li>
                 </ul>
             </main>
             <footer className={styles.footer}>
