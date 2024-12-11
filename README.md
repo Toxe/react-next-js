@@ -9,6 +9,12 @@ Run `npm run dev` and open http://localhost:3000.
 | **React**   | 19.0.0-rc-66855b96-20241106 |
 | **Next.js** |                      15.0.3 |
 
+|                   | Files | Total Files Size |
+| ----------------- | ----: | ---------------: |
+| **git clone**     |   122 |          0.65 MB |
+| **npm install**   | 17427 |        371.15 MB |
+| **npm run build** | 17531 |        414.27 MB |
+
 ![screenshot01](screenshots/screenshot01.png)
 ![screenshot02](screenshots/screenshot02.png)
 ![screenshot03](screenshots/screenshot03.png)
